@@ -5,3 +5,12 @@ avatar: "img/a.png"
 image: "img/a.png"
 date:   2016-01-31 10:12:12
 ---
+
+
+![Alt text](../e.png)
+
+![Alt text](../f.png)
+
+![Alt text](../g.png)
+
+![Alt text](../h.png)
