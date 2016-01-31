@@ -1,0 +1,7 @@
+# Site settings
+title: WISP Game
+description:
+keywords: 
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://benjaminanding.github.io/ggj16wisp" # the base hostname & protocol for your site

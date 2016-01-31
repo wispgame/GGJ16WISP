@@ -1,0 +1,7 @@
+---
+title:  "Wisp"
+subtitle: ""
+avatar: "img/a.png"
+image: "img/a.jpg"
+date:   2016-01-31 10:12:12
+---
