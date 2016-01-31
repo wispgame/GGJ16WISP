@@ -8,10 +8,10 @@ date:   2016-01-31 10:12:12
 
 Screenshots! 
 
-<img src={{ site.baseurl }}/img/e.png>
+<img src="{{ site.baseurl }}/img/e.png">
 
-<img src={{ site.baseurl }}/img/f.png>
+<img src="{{ site.baseurl }}/img/f.png">
 
-<img src={{ site.baseurl }}/img/g.png>
+<img src="{{ site.baseurl }}/img/g.png">
 
-<img src={{ site.baseurl }}/img/h.png>
+<img src="{{ site.baseurl }}/img/h.png">
