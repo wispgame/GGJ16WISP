@@ -6,11 +6,12 @@ image: "img/a.png"
 date:   2016-01-31 10:12:12
 ---
 
+Screenshots! 
 
-![Alt text](../img/e.png)
+![Alt text]({{ site.baseurl }}/img/e.png)
 
-![Alt text](../img/f.png)
+![Alt text]({{ site.baseurl }}/img/f.png)
 
-![Alt text](../img/g.png)
+![Alt text]({{ site.baseurl }}/img/g.png)
 
-![Alt text](../img/h.png)
+![Alt text]({{ site.baseurl }}/img/h.png)
