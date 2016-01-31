@@ -1,8 +1,8 @@
 ---
 title:  "Behind the Scenes"
 subtitle: ""
-avatar: "img/e.png"
-image: "img/e.jpg"
+avatar: "img/d.png"
+image: "img/d.png"
 date:   2016-01-31 12:12:12
 ---
 
