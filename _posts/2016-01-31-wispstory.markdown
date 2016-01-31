@@ -1,7 +1,7 @@
 ---
 title:  "Wisp Story"
 subtitle: ""
-avatar: "img/b.png"
+avatar: "img/b.jpg"
 image: "img/b.jpg"
 date:   2016-01-31 11:12:12
 ---
